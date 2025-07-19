@@ -1,0 +1,2 @@
+# Stock Sector Trend Model
+The Stock Sector Trend Model is a tool that looks at how different groups of stocks (called sectors, like tech, energy, or healthcare) perform over time. By tracking their ups and downs using stock market data, this model helps identify which phase the economy might be in — whether it's growing, slowing down, or recovering. This can give useful insights to investors, students, or anyone curious about how stock markets reflect bigger economic trends.
